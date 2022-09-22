@@ -1,22 +1,20 @@
 [
   {
     "gcode": "20221012/NYKIND",
-    "ticketMasterId": "",
+    "ticketMasterId": "05005D0CA9E93DC5",
     "archticsId": "",
     "dataFevoOfferId": "",
     "tags": "",
-    "customUtm": "",
-    "refund": "",
-    "note": ""
+    "customUtm": "PREGM1",
+    "note": "Preseason"
   },
   {
     "gcode": "20221014/HOUIND",
-    "ticketMasterId": "",
+    "ticketMasterId": "05005D0CA9EE3DC9",
     "archticsId": "",
     "dataFevoOfferId": "",
     "tags": "",
-    "customUtm": "",
-    "refund": "",
-    "note": ""
+    "customUtm": "PREGM2",
+    "note": "Preseason"
   }
 ]
