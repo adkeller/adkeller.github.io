@@ -4,7 +4,7 @@
     "time": "6-8PM",
     "opponent": "",
     "iconFile": "ale-emporium",
-    "website": "https://www.ale-emporium.com/",
+    "website": "www.ale-emporium.com",
     "barName": "Ale Emporium",
     "address": "8617 Allisonville Rd, Indianapolis, IN 46250",
     "appearances": ""
@@ -24,7 +24,7 @@
     "time": "8-10PM",
     "opponent": "1610612756",
     "iconFile": "brothers",
-    "website": "https://www.brothersbar.com/",
+    "website": "www.brothersbar.com",
     "barName": "Brothers Bar & Grill",
     "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
     "appearances": ""
@@ -34,7 +34,7 @@
     "time": "6-8PM",
     "opponent": "1610612753",
     "iconFile": "mucky-duck",
-    "website": "https://places.singleplatform.com",
+    "website": "places.singleplatform.com",
     "barName": "Mucky Duck Pub",
     "address": "4425 Southport Crossing Dr, Indianapolis, IN 46237",
     "appearances": ""
