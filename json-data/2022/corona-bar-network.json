@@ -1,0 +1,42 @@
+[
+  {
+    "date": "November 11th",
+    "time": "6-8PM",
+    "opponent": "",
+    "iconFile": "ale-emporium",
+    "website": "https://www.ale-emporium.com/",
+    "barName": "Ale Emporium",
+    "address": "8617 Allisonville Rd, Indianapolis, IN 46250",
+    "appearances": ""
+  },
+  {
+    "date": "December 16th",
+    "time": "7-9PM",
+    "opponent": "1610612739",
+    "iconFile": "tried-true",
+    "website": "triedandtruealehouse.com",
+    "barName": "Tried & True Greenwood",
+    "address": "2800 S State Rd 135 Suite 100, Greenwood, IN 46143",
+    "appearances": ""
+  },
+  {
+    "date": "January 21st",
+    "time": "8-10PM",
+    "opponent": "1610612756",
+    "iconFile": "brothers",
+    "website": "https://www.brothersbar.com/",
+    "barName": "Brothers Bar & Grill",
+    "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
+    "appearances": ""
+  },
+  {
+    "date": "February 25th",
+    "time": "6-8PM",
+    "opponent": "1610612753",
+    "iconFile": "mucky-duck",
+    "website": "https://places.singleplatform.com",
+    "barName": "Mucky Duck Pub",
+    "address": "4425 Southport Crossing Dr, Indianapolis, IN 46237",
+    "appearances": ""
+  },
+]
