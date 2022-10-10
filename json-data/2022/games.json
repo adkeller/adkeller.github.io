@@ -4,7 +4,6 @@
     "ticketMasterId": "05005D0CA9E93DC5",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "PREGM1",
     "note": "Preseason"
   },
@@ -13,34 +12,56 @@
     "ticketMasterId": "05005D0CA9EE3DC9",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "PREGM2",
-    "note": "Preseason"
+    "note": "Preseason",
+    "promotions": [
+      {
+        "promotion": "Opening Week presented by Kroger",
+        "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
+        "custom_icon": "stars" 
+      }
+    ]
   },
   {
     "gcode": "20221019/WASIND",
     "ticketMasterId": "05005D0CA9F03DD1",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM1",
-    "note": ""
+    "note": "",
+    "promotions": [
+      {
+        "promotion": "Opening Week presented by Kroger",
+        "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
+        "custom_icon": "stars" 
+      }
+    ]
   },
   {
     "gcode": "20221021/SASIND",
     "ticketMasterId": "05005D0CA9F33DD7",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM2",
-    "note": ""
+    "note": "",
+    "promotions": [
+      {
+        "promotion": "Opening Week presented by Kroger",
+        "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
+        "custom_icon": "stars" 
+      },
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "custom_icon": "" 
+      }
+    ]
   },
   {
     "gcode": "20221022/DETIND",
     "ticketMasterId": "05005D0CA9F63DDD",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM3",
     "note": ""
   },
@@ -49,7 +70,6 @@
     "ticketMasterId": "05005D0CA9F93DE7",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM4",
     "note": ""
   },
@@ -58,7 +78,6 @@
     "ticketMasterId": "05005D0CA9FB3DF0",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM5",
     "note": ""
   },
@@ -67,7 +86,6 @@
     "ticketMasterId": "05005D0CA9FE3DF5",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM6",
     "note": ""
   },
@@ -76,7 +94,6 @@
     "ticketMasterId": "05005D0CAA013DF9",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM7",
     "note": ""
   },
@@ -85,7 +102,6 @@
     "ticketMasterId": "05005D0CAA043E03",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM8",
     "note": ""
   },
@@ -94,7 +110,6 @@
     "ticketMasterId": "05005D0CAA063E05",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM9",
     "note": ""
   },
@@ -103,7 +118,6 @@
     "ticketMasterId": "05005D0CAA093E07",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM10",
     "note": ""
   },
@@ -112,7 +126,6 @@
     "ticketMasterId": "05005D0CAA0C3E19",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM11",
     "note": ""
   },
@@ -121,7 +134,6 @@
     "ticketMasterId": "05005D0CAA0F3E21",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM12",
     "note": ""
   },
@@ -130,7 +142,6 @@
     "ticketMasterId": "05005D0CAA113E2B",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM13",
     "note": ""
   },
@@ -139,7 +150,6 @@
     "ticketMasterId": "05005D0CAA143E30",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM14",
     "note": ""
   },
@@ -148,7 +158,6 @@
     "ticketMasterId": "05005D0CAA173E37",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM15",
     "note": ""
   },
@@ -157,7 +166,6 @@
     "ticketMasterId": "05005D0CAA1A3E3C",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM16",
     "note": ""
   },
@@ -166,7 +174,6 @@
     "ticketMasterId": "05005D0CAA1D3E46",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM17",
     "note": ""
   },
@@ -175,7 +182,6 @@
     "ticketMasterId": "05005D0CAA203E4E",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM18",
     "note": ""
   },
@@ -184,7 +190,6 @@
     "ticketMasterId": "05005D0CAA233E50",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM19",
     "note": ""
   },
@@ -193,7 +198,6 @@
     "ticketMasterId": "05005D0CAA263E55",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM20",
     "note": ""
   },
@@ -202,7 +206,6 @@
     "ticketMasterId": "05005D0CAA293E5A",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM21",
     "note": ""
   },
@@ -211,7 +214,6 @@
     "ticketMasterId": "05005D0CAA2D3E96",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM22",
     "note": ""
   },
@@ -220,7 +222,6 @@
     "ticketMasterId": "05005D0CAA313EA7",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM23",
     "note": ""
   },
@@ -229,7 +230,6 @@
     "ticketMasterId": "05005D0CAA343EB1",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM24",
     "note": ""
   },
@@ -238,7 +238,6 @@
     "ticketMasterId": "05005D0CAA363EB4",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM25",
     "note": ""
   },
@@ -247,7 +246,6 @@
     "ticketMasterId": "05005D0CAA393EBA",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM26",
     "note": ""
   },
@@ -256,7 +254,6 @@
     "ticketMasterId": "05005D0CAA3C3EC0",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM27",
     "note": ""
   },
@@ -265,7 +262,6 @@
     "ticketMasterId": "05005D0CAA3F3ECE",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM28",
     "note": ""
   },
@@ -274,7 +270,6 @@
     "ticketMasterId": "05005D0CAA433EFB",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM29",
     "note": ""
   },
@@ -283,7 +278,6 @@
     "ticketMasterId": "05005D0CAA463EFE",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM30",
     "note": ""
   },
@@ -292,7 +286,6 @@
     "ticketMasterId": "05005D0CAA493F0D",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM31",
     "note": ""
   },
@@ -301,7 +294,6 @@
     "ticketMasterId": "05005D0CAA4C3F10",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM32",
     "note": ""
   },
@@ -310,7 +302,6 @@
     "ticketMasterId": "05005D0CAA4F3F1D",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM33",
     "note": ""
   },
@@ -319,7 +310,6 @@
     "ticketMasterId": "05005D0CAA533F27",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM34",
     "note": ""
   },
@@ -328,7 +318,6 @@
     "ticketMasterId": "05005D0CAA563F36",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM35",
     "note": ""
   },
@@ -337,7 +326,6 @@
     "ticketMasterId": "05005D0CAA593F39",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM36",
     "note": ""
   },
@@ -346,7 +334,6 @@
     "ticketMasterId": "05005D0CAA5C3F4B",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM37",
     "note": ""
   },
@@ -355,7 +342,6 @@
     "ticketMasterId": "05005D0CAA603F6B",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM38",
     "note": ""
   },
@@ -364,7 +350,6 @@
     "ticketMasterId": "05005D0CAA633F70",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM39",
     "note": ""
   },
@@ -373,7 +358,6 @@
     "ticketMasterId": "05005D0CAA673F7C",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM40",
     "note": ""
   },
@@ -382,7 +366,6 @@
     "ticketMasterId": "05005D0CAA6A3F81",
     "archticsId": "",
     "dataFevoOfferId": "",
-    "tags": "",
     "customUtm": "GM41",
     "note": ""
   }
