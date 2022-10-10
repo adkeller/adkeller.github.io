@@ -18,7 +18,7 @@
       {
         "promotion": "Opening Week presented by Kroger",
         "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
-        "custom_icon": "stars" 
+        "customIcon": "stars" 
       }
     ]
   },
@@ -33,7 +33,7 @@
       {
         "promotion": "Opening Week presented by Kroger",
         "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
-        "custom_icon": "stars" 
+        "customIcon": "stars" 
       }
     ]
   },
@@ -48,12 +48,12 @@
       {
         "promotion": "Opening Week presented by Kroger",
         "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
-        "custom_icon": "stars" 
+        "customIcon": "stars" 
       },
       {
         "promotion": "Lucas Oil Family Night",
         "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
-        "custom_icon": "" 
+        "customIcon": "" 
       }
     ]
   },
