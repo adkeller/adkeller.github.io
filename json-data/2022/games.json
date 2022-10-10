@@ -5,7 +5,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "PREGM1",
-    "note": "Preseason"
+    "note": "Preseason",
+    "promotions": []
   },
   {
     "gcode": "20221014/HOUIND",
@@ -14,13 +15,7 @@
     "dataFevoOfferId": "",
     "customUtm": "PREGM2",
     "note": "Preseason",
-    "promotions": [
-      {
-        "promotion": "Opening Week presented by Kroger",
-        "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
-        "customIcon": "stars" 
-      }
-    ]
+    "promotions": []
   },
   {
     "gcode": "20221019/WASIND",
@@ -63,7 +58,14 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM3",
-    "note": ""
+    "note": "",
+    "promotions": [
+      {
+        "promotion": "Opening Week presented by Kroger",
+        "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
+        "customIcon": "stars" 
+      }
+    ]
   },
   {
     "gcode": "20221104/MIAIND",
@@ -71,7 +73,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM4",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221107/NOPIND",
@@ -79,7 +82,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM5",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221109/DENIND",
@@ -87,7 +91,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM6",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221112/TORIND",
@@ -95,7 +100,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM7",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221119/ORLIND",
@@ -103,7 +109,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM8",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221121/ORLIND",
@@ -111,7 +118,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM9",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221123/MININD",
@@ -119,7 +127,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM10",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221125/BKNIND",
@@ -127,7 +136,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM11",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221209/WASIND",
@@ -135,7 +145,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM12",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221210/BKNIND",
@@ -143,7 +154,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM13",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221212/MIAIND",
@@ -151,7 +163,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM14",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221214/GSWIND",
@@ -159,7 +172,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM15",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221218/NYKIND",
@@ -167,7 +181,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM16",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221227/ATLIND",
@@ -175,7 +190,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM17",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221229/CLEIND",
@@ -183,7 +199,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM18",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20221231/LACIND",
@@ -191,7 +208,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM19",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230102/TORIND",
@@ -199,7 +217,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM20",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230106/PORIND",
@@ -207,7 +226,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM21",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230108/CHAIND",
@@ -215,7 +235,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM22",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230113/ATLIND",
@@ -223,7 +244,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM23",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230114/MEMIND",
@@ -231,7 +253,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM24",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230124/CHIIND",
@@ -239,7 +262,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM25",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230127/MILIND",
@@ -247,7 +271,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM26",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230202/LALIND",
@@ -255,7 +280,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM27",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230203/SACIND",
@@ -263,7 +289,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM28",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230205/CLEIND",
@@ -271,7 +298,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM29",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230210/PHXIND",
@@ -279,7 +307,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM30",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230213/UTAIND",
@@ -287,7 +316,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM31",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230215/CHIIND",
@@ -295,7 +325,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM32",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230223/BOSIND",
@@ -303,7 +334,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM33",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230306/PHIIND",
@@ -311,7 +343,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM34",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230309/HOUIND",
@@ -319,7 +352,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM35",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230318/PHIIND",
@@ -327,7 +361,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM36",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230327/DALIND",
@@ -335,7 +370,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM37",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230329/MILIND",
@@ -343,7 +379,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM38",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230331/OKCIND",
@@ -351,7 +388,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM39",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230405/NYKIND",
@@ -359,7 +397,8 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM40",
-    "note": ""
+    "note": "",
+    "promotions": []
   },
   {
     "gcode": "20230407/DETIND",
@@ -367,6 +406,7 @@
     "archticsId": "",
     "dataFevoOfferId": "",
     "customUtm": "GM41",
-    "note": ""
+    "note": "",
+    "promotions": []
   }
 ]
