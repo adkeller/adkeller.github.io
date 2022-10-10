@@ -26,7 +26,7 @@
     "note": "",
     "promotions": [
       {
-        "promotion": "Opening Week presented by Kroger",
+        "promotion": "Opening Week presented by Kroger - Gold Out T-shirt",
         "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
         "customIcon": "" 
       }
@@ -63,6 +63,11 @@
       {
         "promotion": "Opening Week presented by Kroger",
         "url": "https://www.nba.com/pacers/2022-opening-week-presented-by-kroger",
+        "customIcon": "" 
+      },
+      {
+        "promotion": "University Hat Night - Purdue",
+        "url": "https://www.nba.com/pacers/university/purdue-hat-night",
         "customIcon": "" 
       }
     ]
