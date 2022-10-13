@@ -1,6 +1,6 @@
 [
   {
-    "date": "November 11th",
+    "date": "November 11th, 2022",
     "time": "6-8PM",
     "opponent": "",
     "iconFile": "ale-emporium",
@@ -40,14 +40,14 @@
     "appearances": ""
   },
   {
-    "date": "January 21st",
+    "date": "January 21st, 2023",
     "time": "8-10PM",
     "opponent": "1610612756",
     "iconFile": "brothers",
     "website": "www.brothersbar.com",
     "barName": "Brothers Bar & Grill - Broad Ripple",
     "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
-    "appearances": ""
+    "appearances": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id justo felis. Mauris eleifend lorem quis arcu cursus, nec efficitur felis tincidunt. Vivamus dictum eget ex quis maximus. "
   },
   {
     "date": "",
@@ -90,7 +90,7 @@
     "appearances": ""
   },
   {
-    "date": "February 25th",
+    "date": "February 25th, 2023",
     "time": "6-8PM",
     "opponent": "1610612753",
     "iconFile": "mucky-duck",
@@ -100,7 +100,7 @@
     "appearances": ""
   },
   {
-    "date": "December 16th",
+    "date": "December 16th, 2022",
     "time": "7-9PM",
     "opponent": "1610612739",
     "iconFile": "tried-true",
