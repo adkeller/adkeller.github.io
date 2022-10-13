@@ -48,7 +48,7 @@
       {
         "promotion": "Lucas Oil Family Night",
         "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
-        "customIcon": "" 
+        "customIcon": "people" 
       }
     ]
   },
@@ -68,7 +68,7 @@
       {
         "promotion": "University Hat Night - Purdue",
         "url": "https://www.nba.com/pacers/university/purdue-hat-night",
-        "customIcon": "" 
+        "customIcon": "mortarboard" 
       }
     ]
   },
@@ -106,7 +106,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM7",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20221119/ORLIND",
@@ -151,7 +157,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM12",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20221210/BKNIND",
@@ -232,7 +244,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM21",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20230108/CHAIND",
@@ -250,7 +268,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM23",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20230114/MEMIND",
@@ -295,7 +319,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM28",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20230205/CLEIND",
@@ -367,7 +397,13 @@
     "dataFevoOfferId": "",
     "customUtm": "GM36",
     "note": "",
-    "promotions": []
+    "promotions": [
+      {
+        "promotion": "Lucas Oil Family Night",
+        "url": "https://www.nba.com/pacers/tickets/lucas-oil-family-night",
+        "customIcon": "people" 
+      }
+    ]
   },
   {
     "gcode": "20230327/DALIND",
