@@ -5,18 +5,38 @@
     "opponent": "",
     "iconFile": "ale-emporium",
     "website": "www.ale-emporium.com",
-    "barName": "Ale Emporium",
+    "barName": "Ale Emporium - Indianapolis",
     "address": "8617 Allisonville Rd, Indianapolis, IN 46250",
     "appearances": ""
   },
   {
-    "date": "December 16th",
-    "time": "7-9PM",
-    "opponent": "1610612739",
-    "iconFile": "tried-true",
-    "website": "triedandtruealehouse.com",
-    "barName": "Tried & True Greenwood",
-    "address": "2800 S State Rd 135 Suite 100, Greenwood, IN 46143",
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "ale-emporium",
+    "website": "www.ale-emporium.com",
+    "barName": "Ale Emporium - Fishers",
+    "address": "11501 Geist Pavilion Dr #100, Fishers, IN 46037",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "ale-emporium",
+    "website": "www.ale-emporium.com",
+    "barName": "Ale Emporium - Greenwood",
+    "address": "997 E County Line Rd B, Greenwood, IN 46143",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "brothers",
+    "website": "www.brothersbar.com",
+    "barName": "Brothers Bar & Grill - Downtown Indy",
+    "address": "255 S Meridian St, Indianapolis, IN 46225",
     "appearances": ""
   },
   {
@@ -25,8 +45,48 @@
     "opponent": "1610612756",
     "iconFile": "brothers",
     "website": "www.brothersbar.com",
-    "barName": "Brothers Bar & Grill",
+    "barName": "Brothers Bar & Grill - Broad Ripple",
     "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "district-tap",
+    "website": "www.thedistricttap.com",
+    "barName": "The District Tap - Downtown Indy",
+    "address": "141 S Meridian St, Indianapolis, IN 46225",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "district-tap",
+    "website": "www.thedistricttap.com",
+    "barName": "The District Tap - North Side",
+    "address": "3720 E 82nd St, Indianapolis, IN 46240",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "kilroys",
+    "website": "www.kilroysindy.com/",
+    "barName": "Kilroys Bar & Grill - Downtown Indy",
+    "address": "201 S Meridian St., Indianapolis, IN 46225",
+    "appearances": ""
+  },
+  {
+    "date": "",
+    "time": "",
+    "opponent": "",
+    "iconFile": "kilroys",
+    "website": "www.kilroysindy.com/",
+    "barName": "Kilroys Bar & Grill - Broad Ripple",
+    "address": "831 Broad Ripple Ave., Indianapolis, IN 46220",
     "appearances": ""
   },
   {
@@ -37,6 +97,16 @@
     "website": "places.singleplatform.com",
     "barName": "Mucky Duck Pub",
     "address": "4425 Southport Crossing Dr, Indianapolis, IN 46237",
+    "appearances": ""
+  },
+  {
+    "date": "December 16th",
+    "time": "7-9PM",
+    "opponent": "1610612739",
+    "iconFile": "tried-true",
+    "website": "triedandtruealehouse.com",
+    "barName": "Tried & True Greenwood",
+    "address": "2800 S State Rd 135 Suite 100, Greenwood, IN 46143",
     "appearances": ""
   }
 ]
