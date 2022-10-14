@@ -1,18 +1,9 @@
 [
   {
-    "date": "November 11th, 2022",
-    "time": "6-8PM",
-    "opponent": "",
-    "iconFile": "ale-emporium",
-    "website": "www.ale-emporium.com",
-    "barName": "Ale Emporium - Indianapolis",
-    "address": "8617 Allisonville Rd, Indianapolis, IN 46250",
-    "appearances": ""
-  },
-  {
     "date": "",
     "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "ale-emporium",
     "website": "www.ale-emporium.com",
     "barName": "Ale Emporium - Fishers",
@@ -22,7 +13,8 @@
   {
     "date": "",
     "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "ale-emporium",
     "website": "www.ale-emporium.com",
     "barName": "Ale Emporium - Greenwood",
@@ -30,9 +22,32 @@
     "appearances": ""
   },
   {
+    "date": "November 11th, 2022",
+    "time": "6-8PM",
+    "opponentId": "",
+    "opponentName": "",
+    "iconFile": "ale-emporium",
+    "website": "www.ale-emporium.com",
+    "barName": "Ale Emporium - Indianapolis",
+    "address": "8617 Allisonville Rd, Indianapolis, IN 46250",
+    "appearances": "Tipoff Event"
+  },
+  {
+    "date": "January 21st, 2023",
+    "time": "8-10PM",
+    "opponentId": "1610612756",
+    "opponentName": "Phoenix Suns",
+    "iconFile": "brothers",
+    "website": "www.brothersbar.com",
+    "barName": "Brothers Bar & Grill - Broad Ripple",
+    "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
+    "appearances": ""
+  },
+  {
     "date": "",
     "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "brothers",
     "website": "www.brothersbar.com",
     "barName": "Brothers Bar & Grill - Downtown Indy",
@@ -40,19 +55,10 @@
     "appearances": ""
   },
   {
-    "date": "January 21st, 2023",
-    "time": "8-10PM",
-    "opponent": "1610612756",
-    "iconFile": "brothers",
-    "website": "www.brothersbar.com",
-    "barName": "Brothers Bar & Grill - Broad Ripple",
-    "address": "910 Broad Ripple Ave., Indianapolis, IN 46220",
-    "appearances": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id justo felis. Mauris eleifend lorem quis arcu cursus, nec efficitur felis tincidunt. Vivamus dictum eget ex quis maximus. "
-  },
-  {
     "date": "",
     "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "district-tap",
     "website": "www.thedistricttap.com",
     "barName": "The District Tap - Downtown Indy",
@@ -62,7 +68,8 @@
   {
     "date": "",
     "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "district-tap",
     "website": "www.thedistricttap.com",
     "barName": "The District Tap - North Side",
@@ -72,17 +79,8 @@
   {
     "date": "",
     "time": "",
-    "opponent": "",
-    "iconFile": "kilroys",
-    "website": "www.kilroysindy.com/",
-    "barName": "Kilroys Bar & Grill - Downtown Indy",
-    "address": "201 S Meridian St., Indianapolis, IN 46225",
-    "appearances": ""
-  },
-  {
-    "date": "",
-    "time": "",
-    "opponent": "",
+    "opponentId": "",
+    "opponentName": "",
     "iconFile": "kilroys",
     "website": "www.kilroysindy.com/",
     "barName": "Kilroys Bar & Grill - Broad Ripple",
@@ -90,9 +88,21 @@
     "appearances": ""
   },
   {
+    "date": "",
+    "time": "",
+    "opponentId": "",
+    "opponentName": "",
+    "iconFile": "kilroys",
+    "website": "www.kilroysindy.com/",
+    "barName": "Kilroys Bar & Grill - Downtown Indy",
+    "address": "201 S Meridian St., Indianapolis, IN 46225",
+    "appearances": ""
+  },
+  {
     "date": "February 25th, 2023",
     "time": "6-8PM",
-    "opponent": "1610612753",
+    "opponentId": "1610612753",
+    "opponentName": "Orlando Magic",
     "iconFile": "mucky-duck",
     "website": "places.singleplatform.com",
     "barName": "Mucky Duck Pub",
@@ -102,7 +112,8 @@
   {
     "date": "December 16th, 2022",
     "time": "7-9PM",
-    "opponent": "1610612739",
+    "opponentId": "1610612739",
+    "opponentName": "Cleveland Cavaliers",
     "iconFile": "tried-true",
     "website": "triedandtruealehouse.com",
     "barName": "Tried & True Greenwood",
